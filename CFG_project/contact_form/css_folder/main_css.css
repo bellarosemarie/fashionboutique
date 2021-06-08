@@ -1,0 +1,98 @@
+
+body{
+    background: #3911e9;
+}
+.contact{
+    padding: 4%;
+    height: 400px
+     ;
+}
+.col-md-3{
+    background: #7d9ee6;
+    padding: 4%;
+    border-top-left-radius: 0.5rem;
+    border-bottom-left-radius: 0.5rem;
+}
+.contact-info{
+    margin-top:10%;
+    color:rgb(229, 167, 245);
+}
+.contact-info img{
+    margin-bottom: 15%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: rgb(233, 148, 214);
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+}
+.contact-form label{
+    font-weight:600;
+}
+
+.contact-form button{
+    background: #6f73c0;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+
+nav {
+    background-color: rgb(182, 164, 224);
+    margin:auto ;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    display: inline;
+}
+
+
+header h1 {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Sofia", sans-serif;
+}
+
+header h2 {
+    height: 80px;
+    background-color: rgb(57, 88, 100);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Sofia", sans-serif;
+}
+
+ h1 {
+    color: rgb(10, 10, 10);
+    font-family: "Sofia", sans-serif;
+}
+    
+
+ h2 {
+    font-family: "Sofia", sans-serif;
+    text-decoration: none;
+    color: rgb(212, 18, 34);
+    }
+
+
+p {
+    width: 300px;
+    margin-left: 30px;
+    color:#6f73c0 ;
+}
+
+
+

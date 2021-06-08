@@ -1,0 +1,102 @@
+body {
+background-color: rgb(233, 148, 214);
+
+}
+
+
+nav {
+    background-color: rgb(182, 164, 224);
+    margin: 20px;
+}
+
+footer {
+    background-color: rgb(182, 164, 224);
+    margin: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 20px;
+}
+
+ul li {
+    display: inline;
+}
+
+
+header h1 {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 60px ;
+}
+
+header h2 {
+    height: 80px;
+    background-color: rgb(140, 205, 248);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Sofia", sans-serif;
+    font-size: 30px;
+}
+
+ h1 {
+    color: rgb(10, 10, 10);
+    font-family: "Sofia", sans-serif;
+}
+    
+
+ h2 {
+    font-family: "Sofia", sans-serif;
+    text-decoration: none;
+    color: beige;
+    }
+
+
+    .network {
+        
+        text-decoration: underline;
+        color: red;
+    }
+
+.specialText {
+    color: #1bec37;
+    text-decoration: underline;
+}
+
+.specialnote {
+    color: #ec1b1b;
+    text-decoration: underline;
+}
+ 
+.blank {
+    color:violet;
+    
+}
+
+table {
+    table-layout: fixed ;
+    width: 100%;
+}
+ 
+
+th {
+    text-align: left;
+    background-color: violet;
+    
+}
+
+td {
+    text-align: left;
+
+}
+
+.tablenames { 
+    font-size: 30px;
+    font-style: italic;
+    text-align: underline;
+    font-weight: bold;
+}
